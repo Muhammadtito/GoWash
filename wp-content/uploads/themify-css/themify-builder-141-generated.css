@@ -1,0 +1,16 @@
+/* Generated from page: contact */
+.themify_builder_content-141 .tb_2f73454.module_row{padding-top:6%}
+.themify_builder_content-141 .tb_335c335.module_row{padding-bottom:8%;padding-top:0}
+.themify_builder_content-141 .tb_335c335.module_row>.row_inner{--col:1fr 1fr 2fr;--colg:var(--none)}
+.themify_builder_content-141 .tb_1ab0b11.module_column{border-left:1px solid #f4f4f4;border-top-style:none;padding-left:8%;padding-right:8%;padding-top:8%}
+.themify_builder_content-141 .tb_2b52ccc.module-text{margin-bottom:40px}
+.themify_builder_content-141 .tb_990211d.module_column{border-left:1px solid #f4f4f4;padding-left:8%;padding-right:12%;padding-top:8%}
+.themify_builder_content-141 .tb_3c40321.module_row{padding-bottom:5%;padding-top:2%}
+.themify_builder_content-141 .tb_0c7fd36.module-contact .control-label,.themify_builder_content-141 .tb_0c7fd36.module-contact .tb_contact_label{color:#000}
+.themify_builder_content-141 .tb_0c7fd36.module-contact input[type="text"],.themify_builder_content-141 .tb_0c7fd36.module-contact input[type="email"],.themify_builder_content-141 .tb_0c7fd36.module-contact input[type="number"],.themify_builder_content-141 .tb_0c7fd36.module-contact textarea,.themify_builder_content-141 .tb_0c7fd36.module-contact select,.themify_builder_content-141 .tb_0c7fd36.module-contact input[type="tel"],.themify_builder_content-141 .tb_0c7fd36.module-contact input[type="file"]{border:none;color:#000;background-color:#f7f7f7}
+
+@media(max-width:680px){
+.themify_builder_content-141 .tb_335c335.module_row>.row_inner{--col:none;--area:var(--aream3_auto)}
+.themify_builder_content-141 .tb_1ab0b11.module_column{padding-left:2%;padding-right:2%;padding-top:2%}
+.themify_builder_content-141 .tb_990211d.module_column{padding-left:2%;padding-right:3%;padding-top:2%}
+}

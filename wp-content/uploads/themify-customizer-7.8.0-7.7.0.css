@@ -1,0 +1,8 @@
+/* Themify Customize Styling */
+#footerwrap {	background-image: url(https://themify.org/shoppe-sport/wp-content/uploads/sites/65/2023/01/sport-footer-bg.jpg);
+	background-size: cover;
+	background-position: center bottom; 
+}
+.footer-widgets .widgettitle {	
+	color: #ffffff; 
+}

@@ -1,0 +1,17 @@
+/* Generated from themify_popup: sample-popup */
+.themify_builder_content-5 .tb_hnvv448.module_row{padding-bottom:15%;padding-top:92%;background-position:center bottom;background-size:cover;background-repeat:no-repeat;background-image:url(https://ajakyuk.skom.id/Go_Wash/wp-content/uploads/2024/07/cafe-ethnic-1024x575-1.jpg)}
+.themify_builder_content-5 .tb_hnvv448.module_row>.builder_row_cover::before{background-color:rgba(0, 0, 0, .47)}
+.themify_builder_content-5 .tb_x09n448.module_column,.themify_builder_content-5 .tb_x09n448.module_column p,.themify_builder_content-5 .tb_x09n448.module_column h1,.themify_builder_content-5 .tb_x09n448.module_column h2,.themify_builder_content-5 .tb_x09n448.module_column h3:not(.module-title),.themify_builder_content-5 .tb_x09n448.module_column h4,.themify_builder_content-5 .tb_x09n448.module_column h5,.themify_builder_content-5 .tb_x09n448.module_column h6,.themify_builder_content-5 .tb_rn5p449.module-feature.module a,.themify_builder_content-5 .tb_quo8449.module-feature.module a,.themify_builder_content-5 .tb_oqmb449.module-feature.module a,.themify_builder_content-5 .tb_bdto450.module_column,.themify_builder_content-5 .tb_bdto450.module_column p,.themify_builder_content-5 .tb_bdto450.module_column h1,.themify_builder_content-5 .tb_bdto450.module_column h2,.themify_builder_content-5 .tb_bdto450.module_column h3:not(.module-title),.themify_builder_content-5 .tb_bdto450.module_column h4,.themify_builder_content-5 .tb_bdto450.module_column h5,.themify_builder_content-5 .tb_bdto450.module_column h6{color:#fff}
+.themify_builder_content-5 .tb_x09n448.module_column a,.themify_builder_content-5 .tb_etu4449.module_row a,.themify_builder_content-5 .tb_gemk450.module_row a,.themify_builder_content-5 .tb_98z1450.module_row a,.themify_builder_content-5 .tb_h1yu450.module_row a,.themify_builder_content-5 .tb_bdto450.module_column a,.themify_builder_content-5 .tb_88o7451.module_row a{text-decoration:underline}
+.themify_builder_content-5 .tb_i5ru449.module_subrow a{text-decoration:none}
+.themify_builder_content-5 .tb_etu4449.module_row{padding-bottom:7%;padding-top:5%}
+.themify_builder_content-5 .tb_qdc8449.module_subrow>.subrow_inner{--colg:var(--narrow)}
+.themify_builder_content-5 .tb_gemk450.module_row,.themify_builder_content-5 .tb_98z1450.module_row{padding-bottom:7%;padding-top:0}
+.themify_builder_content-5 .tb_h1yu450.module_row{padding-bottom:8%;padding-top:0;background-size:cover;--tbBg:parallax;background-attachment:fixed;background-position:center center;background-repeat:no-repeat;background-image:url(https://ajakyuk.skom.id/Go_Wash/wp-content/uploads/2024/07/cafe-bar-1024x691-1.jpg)}
+.themify_builder_content-5 .tb_h1yu450.module_row>.builder_row_cover::before{background-color:rgba(74, 54, 10, .41)}
+.themify_builder_content-5 .tb_ubqj450.module_row{padding-bottom:7%;padding-top:7%}
+
+@media(max-width:680px){
+.themify_builder_content-5 .tb_i5ru449.module_subrow>.subrow_inner{--area:var(--aream3_auto)}
+.themify_builder_content-5 .tb_qdc8449.module_subrow>.subrow_inner{--area:var(--aream2_auto)}
+}
